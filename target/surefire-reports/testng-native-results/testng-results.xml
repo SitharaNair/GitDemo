@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="175" started-at="2020-02-05T21:52:24 IST" finished-at="2020-02-05T21:52:24 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="175" started-at="2020-02-05T21:52:24 IST" finished-at="2020-02-05T21:52:24 IST">
+      <class name="Seleniumacademy.AppiumTest">
+        <test-method status="PASS" signature="Appiumtest()[pri:0, instance:Seleniumacademy.AppiumTest@1552920]" name="Appiumtest" duration-ms="1" started-at="2020-02-05T21:52:24 IST" finished-at="2020-02-05T21:52:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appiumtest -->
+      </class> <!-- Seleniumacademy.AppiumTest -->
+      <class name="Seleniumacademy.APITest">
+        <test-method status="PASS" signature="Post()[pri:0, instance:Seleniumacademy.APITest@7551fb]" name="Post" duration-ms="25" started-at="2020-02-05T21:52:24 IST" finished-at="2020-02-05T21:52:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+      </class> <!-- Seleniumacademy.APITest -->
+      <class name="Seleniumacademy.SeleniumTest">
+        <test-method status="PASS" signature="Seleniumtest()[pri:0, instance:Seleniumacademy.SeleniumTest@158fe70]" name="Seleniumtest" duration-ms="1" started-at="2020-02-05T21:52:24 IST" finished-at="2020-02-05T21:52:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumtest -->
+      </class> <!-- Seleniumacademy.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
