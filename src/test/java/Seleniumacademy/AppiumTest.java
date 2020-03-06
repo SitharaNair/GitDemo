@@ -8,4 +8,9 @@ public class AppiumTest {
 	{
 		System.out.println("appium test");
 	}
+	@Test
+	public void Appiumtest2()
+	{
+		System.out.println("appium test2");
+	}
 }
